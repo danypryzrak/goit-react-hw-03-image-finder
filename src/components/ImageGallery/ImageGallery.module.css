@@ -12,3 +12,7 @@
     height: 240px;
     
 }
+
+.image:hover{
+cursor: pointer;
+}
