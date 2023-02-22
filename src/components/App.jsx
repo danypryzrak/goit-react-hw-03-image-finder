@@ -3,7 +3,6 @@ import { SearchBar } from "./Searchbar/SearchBar";
 import { getImagesPixabay } from "Services/ImagesAPI";
 import { Notify } from "notiflix";
 import { ImageGallery } from "./ImageGallery/ImageGallery";
-import { ImageGalleryItem } from "./ImageGallery/ImageGalleryItem";
 import { Button } from "./Button/Button";
 import { Loader } from "./Loader/Loader";
 
