@@ -1,0 +1,14 @@
+
+.button{
+    display: block;
+    margin: 0 auto 0 auto;
+    width: 160px;
+    height: 48px;
+    border: none;
+    background-color: rgb(54, 54, 242);
+    color: aliceblue;
+}
+
+.button:hover{
+    cursor: pointer;
+}
